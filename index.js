@@ -167,7 +167,7 @@ bot.on("ready", async () => {
 
   console.log(GreenStyle("----------------------------------------"));
   console.log(GreenStyle("                BOT PAGE                "));
-  console.log(GreenStyle("             BOT NOW ACTIVE             "));
+  console.log(GreenStyle("             BOT NOW ACTIVr             "));
   console.log(GreenStyle("----------------------------------------"));
   console.log(GreenStyle("Logging Woll Now Start...               "));
   console.log(GreenStyle("----------------------------------------"));
